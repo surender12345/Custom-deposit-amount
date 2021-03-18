@@ -1,1 +1,1 @@
-# Custom-deposit-amount woocommerce
+# Custom deposit amount woocommerce
