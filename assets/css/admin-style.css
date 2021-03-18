@@ -1,0 +1,74 @@
+#woocommerce-coupon-data ul.wc-tabs li.deposits_tab a:before,
+#woocommerce-product-data ul.wc-tabs li.deposits_tab a:before,
+.woocommerce ul.wc-tabs li.deposits_tab a:before {
+    content: '\002153';
+}
+
+.widefat .column-order_status mark.partially-paid:after {
+    font-family: WooCommerce;
+    speak: none;
+    font-weight: 400;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    margin: 0;
+    text-indent: 0;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+}
+
+.widefat .column-order_status mark.partially-paid:after {
+    content: "\e011";
+    color: #ffba00;
+}
+
+.wc_deposits_variation_checkbox {
+    float: left;
+    margin: 5px !important;
+}
+
+p.form-row-last[class*="_wc_deposits_payment_plans"] .select2 , p.form-row-last[class*="_wc_deposits_payment_plans"] select  {
+    width:100%!important;
+}
+
+
+
+.wcdp_invoice_exists::after {
+    font-family: Dashicons;
+    content: "\f147";
+    margin-left: 4px;
+    color: #2aad2a;
+    vertical-align: middle;
+}
+
+/*.taxonomy-wcdp_payment_plan tr.term-slug-wrap, .taxonomy-wcdp_payment_plan .description {*/
+/*    display: none !important;*/
+/*}*/
+
+.wcdp-important {
+    color: #f00;
+}
+
+.wcdp-hidden {
+    display: none !important;
+}
+
+.wcdp.nav-tab {
+    cursor: pointer;
+}
+
+/*#payment_plan_details {*/
+/*    width :100%;*/
+/*    box-sizing: border-box;*/
+/*    border: 1px solid #ddd;*/
+/*    margin: 1px;*/
+/*    background: #fff;*/
+/*    padding: 10px;*/
+/*    font-weight: 600;*/
+/*    text-align: left;*/
+/*}*/
