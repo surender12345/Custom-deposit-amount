@@ -1,6 +1,6 @@
 <?php
 /**
- * Plugin Name: hausgroup Deposits Payment
+ * Plugin Name: Web woocomerce Deposits Payment
  * Description: Adds deposits support to WooCommerce.
  * Version: 3.0.3
  * Author: WebPerfection
